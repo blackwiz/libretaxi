@@ -28,6 +28,7 @@
  * @see https://mzl.la/2jRpmTI
  */
 const localeMap = new Map();
+localeMap.set('id', '🇮🇩 Bahasa Indonesia');
 localeMap.set('en', 'English');
 localeMap.set('ru', '🇷🇺 Русский');
 localeMap.set('es', 'Español');
@@ -49,7 +50,6 @@ localeMap.set('ua', '🇺🇦 Українська');
 localeMap.set('ro', '🇷🇴 Română');
 localeMap.set('hi', 'हिन्दी');
 localeMap.set('ta', 'தமிழ்');
-localeMap.set('id', '🇮🇩 Bahasa Indonesia');
 localeMap.set('vi', '🇻🇳 Tiếng Việt');
 localeMap.set('ki', 'Kiribati');
 localeMap.set('ku', 'کوردی 🇹🇯');
